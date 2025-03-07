@@ -5,3 +5,5 @@ Project 2 - Create brochure and translate to kannada
               company. It then translates the generated content to another language like Kannada.      
 Project 3 - chatbot to answer python doubts
              - This project is a python code which uses both openai api and ollama to answer doubts related to python and llm engineering for students starting from scratch to pro
+Project 4 - simple airline booking chatbot
+             - This project is a python code which uses openai api and self built tools to create a basic interactive interface chatbot to provide airline details and allow the    user to create a booking and store in a file   
